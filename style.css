@@ -1,0 +1,34 @@
+body{
+    background-color: aquamarine;
+
+    
+}
+
+h1{
+    color:rgb(0, 73, 101);
+
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 5000;
+}
+
+
+b{
+    color:rgb(0, 73, 101);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+input[type="text"]{
+    background-color: rgb(233, 174, 103);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: rgb(0, 73, 101);;
+}
+
+input[type="button"]{
+    background-color: rgb(233, 174, 103);
+    color: rgb(0, 73, 101);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
